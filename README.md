@@ -1,2 +1,6 @@
-# apnacollege-demo-
-this is my first git repository
+# apnacollege-demo
+
+This is my first Git Repository
+Author - Anannya Hendre 
+
+
